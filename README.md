@@ -1,3 +1,2 @@
 # Certificates
-My certificates
-Coursera
+My certificates Data Science
